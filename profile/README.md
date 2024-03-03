@@ -39,4 +39,4 @@ Nós adoramos contribuições! Se você deseja contribuir para nossos projetos, 
 
 ## Licença
 
-Este projeto é licenciado sob a MIT.
+Este projeto é licenciado sob a MIT License. Leia o arquivo [LICENSE](https://github.com/CosmicTasks/.github/blob/main/LICENSE) para mais informações.
